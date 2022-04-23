@@ -1,0 +1,2 @@
+# House-Price-Prediction
+Predicting Sales Price of each House in Test Dataset using various Machine Learning Algorithms.  It is a Advanced Problem of Regression which requires advanced techniques of feature engineering, feature selection &amp; extraction, modelling, model evaluation, and Statistics.  Root Mean Squared Error (RMSE) &amp; Mean Absolute Error (MAE) are used to check the performance of these Algorithms.  Algorithms Compared: Linear Regression, Lasso Regression, Ridge Regression, Stochastic Gradient Descent, Random Forest &amp; XGBoost.
